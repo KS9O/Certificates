@@ -5,4 +5,6 @@
 
 ![Alt text](<assets/THM Certificate.png>)
 
-![Alt text](<assets/Blue%20Team%20Level%201%20(BTL1)-Certification.pdf>)
+
+
+![Blue Team Level 1 (BTL1)-Certification](https://github.com/user-attachments/assets/f7047bb8-88d6-4927-a672-e4e28b3892b5)
